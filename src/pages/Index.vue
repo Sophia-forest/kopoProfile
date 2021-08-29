@@ -111,7 +111,7 @@
       <q-chat-message
         name="Ahlim"
         bg-color="grey"
-        avatar="/statics/images/arim.png"
+        avatar="/statics/images/arimp.png"
         :text="['Great! how r U?']"
         sent
       ></q-chat-message>
@@ -124,7 +124,7 @@
             <q-chat-message
         name="aAhlimhlim"
         bg-color="grey"
-        avatar="/statics/images/arim.png"
+        avatar="/statics/images/arimp.png"
         :text="['I am learning computer languages and programming :)']"
         sent
         z
@@ -138,7 +138,7 @@
             <q-chat-message
         name="Ahlim"
         bg-color="grey"
-        avatar="/statics/images/arim.png"
+        avatar="/statics/images/arimp.png"
         :text="['Of course, i will show you']"
         sent
         z
@@ -158,7 +158,7 @@
              style="border-top:3px solid #bdbdbd;border-bottom: 3px solid #bdbdbd;">MY Works
         </div> -->
         <div class="col-md-12 col-md-12 col-xs-12 col-sm-12 q-mb-xl flex flex-center">
-          <q-card class="my-card" flat bordered style="background:radial-gradient(circle, #bebebe 0%, #828282 100%)">
+          <q-card class="my-card" flat bordered style="background:grey">
             <q-card-section>
               <!-- <q-ribbon class="github-text" position="top-right" type="corner" color="white" background-color="#eb4f71">
                 <a href="https://github.com/wonyongHwang/KopoBlockchain" target="_blank">FORK ME ON GITHUB!</a>
@@ -184,22 +184,7 @@
                   </q-card-section>
                 </div>
 
-                <!-- <div id="q-app" style="min-height: 100vh;">
-  <div class="q-pa-md">
-    <q-carousel
-      animated
-      v-model="slide"
-      arrows
-      navigation
-      infinite
-    >
-      <q-carousel-slide :name="1" img-src="/statics/images/blockchain.png"></q-carousel-slide>
-      <q-carousel-slide :name="2" img-src="https://cdn.quasar.dev/img/parallax1.jpg"></q-carousel-slide>
-      <q-carousel-slide :name="3" img-src="https://cdn.quasar.dev/img/parallax2.jpg"></q-carousel-slide>
-      <q-carousel-slide :name="4" img-src="https://cdn.quasar.dev/img/quasar.jpg"></q-carousel-slide>
-    </q-carousel>
-  </div>
-</div> -->
+               
 
 
                 <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
@@ -250,7 +235,7 @@
 
 
                 <div class="col-md-12 col-md-12 col-xs-12 col-sm-12 q-mb-xl flex flex-center">
-          <q-card class="my-card" flat bordered style="background:radial-gradient(circle, #bebebe 0%, #828282 100%)">
+          <q-card class="my-card" flat bordered style="background:grey">
             <q-card-section>
               <!-- <q-ribbon class="github-text" position="top-right" type="corner" color="white" background-color="#eb4f71">
                 <a href="https://github.com/wonyongHwang/KopoBlockchain" target="_blank">FORK ME ON GITHUB!</a>
@@ -313,7 +298,7 @@
 
 
                 <div class="col-md-12 col-md-12 col-xs-12 col-sm-12 q-mb-xl flex flex-center">
-          <q-card class="my-card" flat bordered style="background:radial-gradient(circle, #bebebe 0%, #828282 100%)">
+          <q-card class="my-card" flat bordered style="background:grey">
             <q-card-section>
               <!-- <q-ribbon class="github-text" position="top-right" type="corner" color="white" background-color="#eb4f71">
                 <a href="https://github.com/wonyongHwang/KopoBlockchain" target="_blank">FORK ME ON GITHUB!</a>
@@ -351,7 +336,7 @@
         </div>
 
          <div class="col-md-12 col-md-12 col-xs-12 col-sm-12 q-mb-xl flex flex-center">
-          <q-card class="my-card" flat bordered style="background:radial-gradient(circle, #bebebe 0%, #828282 100%)">
+          <q-card class="my-card" flat bordered style="background:grey">
             <q-card-section>
               <!-- <q-ribbon class="github-text" position="top-right" type="corner" color="white" background-color="#eb4f71">
                 <a href="https://github.com/wonyongHwang/KopoBlockchain" target="_blank">FORK ME ON GITHUB!</a>
@@ -391,7 +376,7 @@
 
 
  <div class="col-md-12 col-md-12 col-xs-12 col-sm-12 q-mb-xl flex flex-center">
-          <q-card class="my-card" flat bordered style="background:radial-gradient(circle, #bebebe 0%, #828282 100%)">
+          <q-card class="my-card" flat bordered style="background:grey">
             <q-card-section>
               <!-- <q-ribbon class="github-text" position="top-right" type="corner" color="white" background-color="#eb4f71">
                 <a href="https://github.com/wonyongHwang/KopoBlockchain" target="_blank">FORK ME ON GITHUB!</a>
@@ -540,7 +525,7 @@
       <q-chat-message
         name="Ahlim"
         bg-color="grey"
-        avatar="/statics/images/arim.png"
+        avatar="/statics/images/arimp.png"
         :text="['Thank you :) How about visiting my github?']"
         sent
       ></q-chat-message>
@@ -548,7 +533,7 @@
             <q-chat-message
         name="Ahlim"
         bg-color="grey"
-        avatar="/statics/images/arim.png"
+        avatar="/statics/images/arimp.png"
         :text="['And if you have a question, just send email to me :)']"
         
         sent
@@ -563,7 +548,7 @@
             <q-chat-message
         name="Ahlim"
         bg-color="grey"
-        avatar="/statics/images/arim.png"
+        avatar="/statics/images/arimp.png"
         :text="['It is my pleasure :)']"
         sent
         z
