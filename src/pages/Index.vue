@@ -616,18 +616,14 @@
     <q-toolbar class="flex flex-center text-white" style="background-color: #F56E6E;border-top: 2px solid grey"
                id="id_contact_me">
       <div class="q-pa-sm q-gutter-sm">
-        <!-- <q-btn target="_blank" style="border: 2px solid grey" round type="a" href="https://twitter.com/dreamonpanda"
-               glossy
-               icon="fab fa-twitter"/> -->
+
                <q-btn color="secondary"  label="Visit to my github" href="https://github.com/Sophia-forest" glossy></q-btn>
 
         <q-btn target="_blank" style="border: 2px solid white" round type="a"
                href="https://github.com/Sophia-forest"
                glossy
                icon="fab fa-github"/>
-        <!-- <q-btn style="border: 2px solid black" round type="a" href="mailto:wonyong@wonyong.net"
-               glossy
-               icon="email"/> -->
+
         <!-- <q-btn target="_blank" style="border: 2px solid black;" round type="a"
                href="https://www.facebook.com/wonyong.hwang"
                glossy
